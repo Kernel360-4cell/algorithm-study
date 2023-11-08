@@ -6,7 +6,7 @@
 
 ## 멤버
 |Backend|Backend|Backend|Backend|
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 |<img src="https://github.com/Kernel360-4cell/algorithm-study/assets/44130863/160a2c6c-4f1c-48b2-acad-96c64e7c6617" width=100>|<img src="https://github.com/Kernel360-4cell/algorithm-study/assets/44130863/9787a5eb-27b0-4349-8d3a-8739adec2bed" width=100>|<img src="https://github.com/Kernel360-4cell/algorithm-study/assets/44130863/1ee6dd72-c060-4dab-996b-e9f9bc7048d2" width=100>|<img src="https://github.com/Kernel360-4cell/algorithm-study/assets/44130863/bef79d6c-5ec0-43c0-999c-906d42ad1e06" width=100>|
 |[형준](https://github.com/kkkapuq)|[소현](https://github.com/anso33)|[종민](https://github.com/ShineCorine)|[무룡](https://github.com/aqrms)|
 
@@ -36,5 +36,5 @@ BOJ_2805_실버2_나무 자르기
 주차별 문제 목록입니다.
 
 | 날짜 | 월 | 화 | 수 | 목 | 금 | 유형 |
-| --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1주차, 23.11.08 ~ 23.11.10 |  |  |  | [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795), 실버 3 | [블로그](https://www.acmicpc.net/problem/21921), 실버 3 | 이분탐색, 투포인터 |
