@@ -37,4 +37,5 @@ BOJ_2805_실버2_나무 자르기
 
 | 날짜 | 월 | 화 | 수 | 목 | 금 | 유형 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1주차, 23.11.08 ~ 23.11.10 |  |  |  | [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795), 실버 3 | [블로그](https://www.acmicpc.net/problem/21921), 실버 3 | 이분탐색, 투포인터 |
+| 1주차, 23.11.08 ~ 23.11.10 |  |  |  | [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)<br>실버 3 | [블로그](https://www.acmicpc.net/problem/21921)<br>실버 3 | 이분탐색, 투포인터 |
+| 2주차, 23.11.13 ~ 23.11.17 | [랜선 자르기](https://www.acmicpc.net/problem/1654)<br>실버 2 | [기타 레슨](https://www.acmicpc.net/problem/2343)<br>실버 1 | [회전 초밥](https://www.acmicpc.net/problem/2531)<br>실버 3 | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)<br>실버 1 | [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)<br>실버 3 | 이분탐색, 투포인터 |
