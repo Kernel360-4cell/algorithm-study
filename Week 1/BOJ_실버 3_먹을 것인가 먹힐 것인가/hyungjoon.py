@@ -1,7 +1,7 @@
 '''
 문제 : 먹을 것인가 먹힐 것인가
 난이도 : 실버 3
-소요 시간 : 
+소요 시간 : 30분
 '''
 import sys
 se = sys.stdin.readline
