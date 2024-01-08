@@ -40,7 +40,6 @@ public class Main {
     private static int findGroup(int row, int col){
 
         Deque<Point> queue = new ArrayDeque<>();
-
         queue.add(new Point(row, col));
         int count = 1;
 
